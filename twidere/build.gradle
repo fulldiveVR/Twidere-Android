@@ -31,9 +31,9 @@ android {
     buildToolsVersion globalBuildToolsVersion
 
     defaultConfig {
-        applicationId "org.mariotaku.twidere"
-        minSdkVersion 14
-        targetSdkVersion 26
+        applicationId "com.fulldive.cashtweet"
+        minSdkVersion 16
+        targetSdkVersion 29
         versionCode projectVersionCode
         versionName projectVersionName
         multiDexEnabled true
